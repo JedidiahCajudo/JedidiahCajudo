@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jed</h1>
+<h1 align="center">Hi 👋 I'm Jed</h1>
 <h3 align="center">Fullstack developer in Tokyo</h3>
 
 - 🔭 I’m currently working on **What Do I Wear**
