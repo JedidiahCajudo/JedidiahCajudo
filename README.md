@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jedidiahcajudoace@gmail.com**
 
-- ⚡ Fun fact **I can do a backflip.**
+- ⚡ Fun fact: **I can do a backflip.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
