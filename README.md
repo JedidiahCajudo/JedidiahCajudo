@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Rails**
 
-- 📫 How to reach me **jedidiahcajudoace@gmail.com**
+- 📫 How to reach me **jedidiahdev@gmail.com**
 
 - ⚡ Fun fact: **I can do a backflip.**
 
