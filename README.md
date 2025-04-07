@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **jedidiahdev@gmail.com**
 
-- ⚡ Fun fact: **I can do a backflip.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
