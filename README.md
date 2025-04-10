@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Rails**
 
-- 📫 How to reach me **jeddev@gmail.com**
+- 📫 How to reach me **jedidiahcajudoace@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
