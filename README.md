@@ -12,8 +12,9 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <!-- Add your links below -->
-  <a href="mailto:jedidiahcajudoace@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jedidiahcajudoace@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -34,15 +35,24 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedidiahcajudo&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jedidiahcajudo&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jedidiahcajudo&show_icons=true&theme=tokyonight" alt="jedidiahcajudo's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedidiahcajudo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jedidiahcajudo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedidiahcajudo&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedidiahcajudo&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=jedidiahcajudo&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
