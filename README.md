@@ -14,9 +14,6 @@
 <p align="center">
   <!-- Add your links below -->
   <a href="mailto:jedidiahcajudoace@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Example social badge: 
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  -->
 </p>
 
 ---
@@ -32,5 +29,14 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
   </a>
-  <!-- Add more tools as needed -->
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jedidiahcajudo&show_icons=true&theme=tokyonight" alt="jedidiahcajudo's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedidiahcajudo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
