@@ -35,6 +35,12 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedidiahace&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jedidiahace&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jedidiahcajudo&show_icons=true&theme=tokyonight" alt="jedidiahcajudo's GitHub Stats" />
 </p>
 <p align="center">
