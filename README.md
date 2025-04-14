@@ -44,6 +44,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedidiahcajudo&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jedidiahcajudo&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
