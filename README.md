@@ -42,5 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedidiahcajudo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedidiahcajudo&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JedidiahCajudo" alt="GitHub Streak" /></a>
 </p>
+
+
