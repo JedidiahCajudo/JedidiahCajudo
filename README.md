@@ -2,8 +2,8 @@
 <h3 align="center">Fullstack Developer based in Tokyo 🇯🇵</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>What Do I Wear</strong><br>
-  🌱 I’m currently learning <strong>React</strong><br>
+  🔭 I’m currently working on <strong>Easy Wins</strong><br>
+  🌱 I’m currently practicing <strong>React, Vite, PostgreSQL</strong><br>
   💬 Ask me about <strong>Ruby on Rails</strong><br>
   📫 Reach me at: <strong>jedidiahcajudoace@gmail.com</strong>
 </p>
