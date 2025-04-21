@@ -43,5 +43,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedidiahcajudo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JedidiahCajudo&theme=dark)
+  (https://github-readme-streak-stats.herokuapp.com/?user=JedidiahCajudo&theme=dark)
 </p>
