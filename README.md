@@ -37,9 +37,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jedidiahcajudo&theme=tokyonight" alt="GitHub Contributions" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JedidiahCajudo&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
