@@ -32,6 +32,7 @@
   </a>
 </p>
 
+
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -41,4 +42,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedidiahcajudo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JedidiahCajudo)](https://git.io/streak-stats)
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JedidiahCajudo&theme=dark)
+</p>
