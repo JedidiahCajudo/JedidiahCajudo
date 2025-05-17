@@ -4,7 +4,7 @@
 <p align="center">
   🔭 I’m currently working on <strong>Barber Booking</strong><br>
   🌱 I’m currently practicing <strong>React, Vite, PostgreSQL</strong><br>
-  💬 Ask me about <strong>Ruby on Rails</strong>and<strong>Javascript</strong><br>
+  💬 Ask me about <strong>Ruby on Rails</strong> & <strong>Javascript</strong><br>
   📫 Reach me at: <strong>jedidiahcajudoace@gmail.com</strong>
 </p>
 
