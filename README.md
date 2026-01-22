@@ -4,10 +4,7 @@
 <p align="center">
   I’m currently working on <strong>Repstacker</strong><br>
   I’m currently practicing <strong>React, Typescript, Vite, Next, and Vue </strong><br>
-  Ask me about <strong>Ruby on Rails</strong> & <strong>Javascript</strong><br>
-  Reach me at: <strong>jedfullstack@gmail.com</strong>
-</p>
-
+  Ask me about <strong>Ruby on Rails</strong> & <strong>Javascript</strong>
 ---
 
 <h3 align="center">Connect with me</h3>
