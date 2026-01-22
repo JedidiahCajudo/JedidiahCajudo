@@ -2,10 +2,10 @@
 <h3 align="center">Fullstack Developer based in Tokyo 🇯🇵</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>Repstacker</strong><br>
-  🌱 I’m currently practicing <strong>React, React, and Vite</strong><br>
+  I’m currently working on <strong>Repstacker</strong><br>
+  I’m currently practicing <strong>React, Typescript, Vite, Next, and Vue </strong><br>
   💬 Ask me about <strong>Ruby on Rails</strong> & <strong>Javascript</strong><br>
-  📫 Reach me at: <strong>jedidiahcajudoace@gmail.com</strong>
+  📫 Reach me at: <strong>jedfullstack@gmail.com</strong>
 </p>
 
 ---
